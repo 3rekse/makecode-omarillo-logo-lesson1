@@ -43,8 +43,3 @@ Get the turtle to say your name!
 Done.
 
 You have successfully completed your first lesson in Turtle Logo.
-
-```ghost
-turtle.showTurtle()
-turtle.say("Hello, World!")
-```
