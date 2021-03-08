@@ -35,7 +35,11 @@ turtle.say("Hello, World!")
 ## Step 4
 **Success!**
 
-Notice in the game console to the left, your object said "Hello, World!" for 2 second and then it's words vanish. If you want to run your program again, click the "🔁" button on the game console.
+Notice in the game console to the left, your **Turtle** said "Hello, World!" for 5 second and then the words vanish. If you want to run your program again, click the "🔁" button on the game console. You can also click the "⊕" and change the milliseconds to a larger number, to make it stay longer.
+```blocks
+turtle.showTurtle()
+turtle.say("Hello, World!", 60000)
+```
 
 ## Step 4
 **Your Turn**
