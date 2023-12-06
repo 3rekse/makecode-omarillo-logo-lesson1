@@ -5,11 +5,11 @@
 ## Turtle Logo - Lesson #1 @unplugged
 **Welcome to coding with Turtle Logo.**
 
-In this lesson you will create your first Turtle Logo program. You will get a **Turtle** showing up in your game console and have it say, "Hello, World!".
+In questa lezione creerai il tuo primo programma Turtle Logo. Vedrai apparire una **Omarillo** nella tua console di gioco e dirle "Ciao, mondo! Benvenuti all' Omar".
 ![Hello, World!](https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson1/raw/main/assets/hello_world_screenshot.png)
 
 ## Step 1
-All our programs begin with an ⇢``on start``⇠ block. This block runs all the commands that are inside it as soon as the program begins. It has been provided for you below. If you accidentally delete the block, you can find it under the *"Loops"* menu.
+Tutti i nostri programmi iniziano con un blocco ⇢``on start``⇠ block. Questo blocco esegue tutti i comandi che si trovano al suo interno non appena inizia il programma. Ti è stato fornito di seguito. Se elimini accidentalmente il blocco, puoi trovarlo nel menu *"Loops"* menu.
 ```blocks
 /**
  * This is the "on start" block
@@ -19,7 +19,7 @@ All our programs begin with an ⇢``on start``⇠ block. This block runs all the
 ## Step 2
 ** Follow Along**
 
-Next you will need to create your **Turtle**. To do this you use the ⇢``show turtle``⇠ block and place it inside the ⇢``on start``⇠ block. This creates the **Turtle** and places it in the middle of the screen.
+Successivamente dovrai creare il tu **Omarillo**. Per fare ciò utilizza il blocco  ⇢``show turtle``⇠ e posizionalo all'interno del blocco ⇢``on start``⇠. Questo crea  **Omarillo** **Tartaruga** e la posiziona al centro dello schermo.
 ```blocks
 turtle.showTurtle()
 ```
