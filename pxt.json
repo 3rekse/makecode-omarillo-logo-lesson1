@@ -1,9 +1,9 @@
-{
+se{
     "name": "Turtle Logo - Makecode Arcade",
     "description": "",
     "dependencies": {
         "device": "*",
-        "Turtle Logo": "github:Mr-Coxall/turtle-logo"
+        "Turtle Logo": "github:3rekse/omarillo"
     },
     "files": [
         "main.blocks",
