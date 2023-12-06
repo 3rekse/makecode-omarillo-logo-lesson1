@@ -1,11 +1,11 @@
 ### @explicitHints true
 
-# Turtle Logo - Lesson #1
+# Omarillo Logo - Lesson #1
 
-## Turtle Logo - Lesson #1 @unplugged
-**Welcome to coding with Turtle Logo.**
+## Omarillo Logo - Lesson #1 @unplugged
+**Welcome to coding with Omarillo Logo.**
 
-In questa lezione creerai il tuo primo programma Turtle Logo. Vedrai apparire una **Omarillo** nella tua console di gioco e dirle "Ciao, mondo! Benvenuti all' Omar".
+In questa lezione creerai il tuo primo programma Omarillo Logo. Vedrai apparire una **Omarillo** nella tua console di gioco e dirle "Ciao, mondo! Benvenuti all' Omar".
 ![Hello, World!](https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson1/raw/main/assets/hello_world_screenshot.png)
 
 ## Step 1
