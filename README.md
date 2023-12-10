@@ -19,9 +19,9 @@ Tutti i nostri programmi iniziano con un blocco ⇢``on start``⇠ block. Questo
 ## Step 2
 ** Follow Along**
 
-Successivamente dovrai creare il tu **Omarillo**. Per fare ciò utilizza il blocco  ⇢``show turtle``⇠ e posizionalo all'interno del blocco ⇢``on start``⇠. Questo crea  **Omarillo** **Tartaruga** e la posiziona al centro dello schermo.
+Successivamente dovrai creare il tu **Omarillo**. Per fare ciò utilizza il blocco  ⇢``show omarillo``⇠ e posizionalo all'interno del blocco ⇢``on start``⇠. Questo crea  **Omarillo** **Tartaruga** e la posiziona al centro dello schermo.
 ```blocks
-turtle.showTurtle()
+omarillo.showOmarillo()
 ```
 
 ## Step 3
@@ -29,8 +29,8 @@ turtle.showTurtle()
 
 Now that we have a **Turtle**, you can ask it to say something. Drag out the ⇢``turtle says "Hello, World!" ⊕``⇠ block and place it inside the ⇢``on start``⇠ block but after the ⇢``show turtle``⇠ block.
 ```blocks
-turtle.showTurtle()
-turtle.say("Hello, World!")
+omarillo.showOmarillo()
+omarillo.say("Benvenuti all'OMAR di Oleggio!")
 ```
 ## Step 4
 **Success!**
