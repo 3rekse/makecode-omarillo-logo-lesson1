@@ -5,7 +5,7 @@
 ## Omarillo Logo - Lesson #1 @unplugged
 **Welcome to coding with Omarillo Logo.**
 
-In questa lezione creerai il tuo primo programma Omarillo Logo. Vedrai apparire una **Omarillo** nella tua console di gioco e dirle "Ciao, mondo! Benvenuti all' Omar".
+In questa lezione creerai il tuo primo programma Omarillo Logo. Vedrai apparire una **Omarillo** nella tua console di gioco e dirle "Ciao, mondo! Benvenuti all' Omar" proprio come la tartaruga .
 ![Hello, World!](https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson1/raw/main/assets/hello_world_screenshot.png)
 
 ## Step 1
@@ -19,9 +19,9 @@ Tutti i nostri programmi iniziano con un blocco ⇢``on start``⇠ block. Questo
 ## Step 2
 ** Follow Along**
 
-Successivamente dovrai creare il tu **Omarillo**. Per fare ciò utilizza il blocco  ⇢``show turtle``⇠ e posizionalo all'interno del blocco ⇢``on start``⇠. Questo crea  **Omarillo** **Tartaruga** e la posiziona al centro dello schermo.
+Successivamente dovrai creare il tu **Omarillo**. Per fare ciò utilizza il blocco  ⇢``show turtle``⇠ e posizionalo all'interno del blocco ⇢``on start``⇠. Questo crea  l'**Omarillo** o la **Tartaruga** e la posiziona al centro dello schermo.
 ```blocks
-turtle.showTurtle()
+omarillo.showOmarillo()
 ```
 
 ## Step 3
