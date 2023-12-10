@@ -51,4 +51,4 @@ Get the **Turtle** to say your name!
 ## Step 5
 **Done**
 
-You have successfully completed your first lesson in Turtle Logo.
+Hai completato con successo la tua prima lezione e hai addestrato Omarillo.
