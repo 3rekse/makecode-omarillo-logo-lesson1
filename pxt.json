@@ -1,9 +1,9 @@
 {
-    "name": "Turtle Logo - Makecode Arcade",
+    "name": "Omarillo Logo - I.T.I. Omar - Makecode Arcade",
     "description": "",
     "dependencies": {
         "device": "*",
-        "Turtle Logo": "github:3rekse/omarillo"
+        "Omarillo Logo": "github:3rekse/omarillo#13aa5d2803581f81e5994e90f5dada4f7f8914e6"
     },
     "files": [
         "main.blocks",

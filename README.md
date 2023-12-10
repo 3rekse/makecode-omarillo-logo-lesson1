@@ -5,7 +5,7 @@
 ## Omarillo Logo - Lesson #1 @unplugged
 **Welcome to coding with Omarillo Logo.**
 
-In questa lezione creerai il tuo primo programma Omarillo Logo. Vedrai apparire una **Omarillo** nella tua console di gioco e dirle "Ciao, mondo! Benvenuti all' Omar" proprio come la tartaruga .
+In questa lezione creerai il tuo primo programma per Omarillo. Vedrai apparire un **Omarillo** nella tua console di gioco e dire "Ciao, benvenuti all'I.T.I Omar" proprio come la tartaruga dice Hello, World!.
 ![Hello, World!](https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson1/raw/main/assets/hello_world_screenshot.png)
 
 ## Step 1
@@ -19,34 +19,38 @@ Tutti i nostri programmi iniziano con un blocco ⇢``on start``⇠ block. Questo
 ## Step 2
 ** Follow Along**
 
-Successivamente dovrai creare il tu **Omarillo**. Per fare ciò utilizza il blocco  ⇢``show turtle``⇠ e posizionalo all'interno del blocco ⇢``on start``⇠. Questo crea  l'**Omarillo** o la **Tartaruga** e la posiziona al centro dello schermo.
+Successivamente dovrai creare il tu **Omarillo**. Per fare ciò utilizza il blocco  ⇢``show omarillo``⇠ block e posizionalo all'interno del blocco ⇢``on start``⇠. Questo crea  l'**Omarillo** o la **Tartaruga** e la posiziona al centro dello schermo.
 ```blocks
-omarillo.showOmarillo()
+/**
+ * questo è il blocco "show omarillo" block
+ */
+ omarillo.showOmarillo()
 ```
 
 ## Step 3
 ** Follow Along**
 
-Now that we have a **Turtle**, you can ask it to say something. Drag out the ⇢``turtle says "Hello, World!" ⊕``⇠ block and place it inside the ⇢``on start``⇠ block but after the ⇢``show turtle``⇠ block.
+Ora che abbiamo un **Omarillo**, puoi chiedergli di dire qualcosa. Trascina fuori l'Omarillo ⇢`` che dice "Ciao, mondo!" ⊕``⇠ e posizionalo all'interno del blocco ⇢``on start``⇠ ma dopo il blocco ⇢``mostra omarillo``⇠.
 ```blocks
-turtle.showTurtle()
-turtle.say("Hello, World!")
+omarillo.showOmarillo()
+omarillo.say("Ciao, benvenuti all'I.T.I Omar!")
 ```
 ## Step 4
 **Success!**
 
-Notice in the game console to the left, your **Turtle** said "Hello, World!" for 5 second and then the words vanish. If you want to run your program again, click the "🔁" button on the game console. You can also click the "⊕" and change the milliseconds to a larger number, to make it stay longer.
+Nota nella console di gioco a sinistra, il tuo **Omarillo** ha detto "Ciao, benvenuti all'I.T.I Omar!" per 5 secondi e poi le parole svaniscono. Se desideri eseguire nuovamente il programma, fai clic sul pulsante "🔁" sulla console di gioco. Puoi anche fare clic su "⊕" e modificare i millisecondi con un numero più grande, per farli rimanere più a lungo.
+
 ```blocks
-turtle.showTurtle()
-turtle.say("Hello, World!", 60000)
+omarillo.showOmarillo()
+omarillo.say("Ciao, benvenuti all'I.T.I Omar!", 60000)
 ```
 
 ## Step 4
 **Your Turn**
 
-Get the **Turtle** to say your name!
+Fai in modo che  **Omarillo** dica il tuo nome!
 
 ## Step 5
 **Done**
 
-You have successfully completed your first lesson in Turtle Logo.
+Complimenti hai completato con successo la tua prima lezione e stai addestrando Omarillo.
