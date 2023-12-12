@@ -5,11 +5,13 @@
 ## Omarillo Logo - Lesson #1 @unplugged
 **Welcome to coding with Omarillo Logo.**
 
-In questa lezione creerai il tuo primo programma Omarillo Logo. Vedrai apparire una **Omarillo** nella tua console di gioco e dirle "Ciao, mondo! Benvenuti all' Omar" proprio come la tartaruga .
+In questa lezione creerai il tuo primo programma Omarillo Logo. Vedrai apparire un **Omarillo** nella tua console di gioco e dire "Ciao, benvenuti all' Omar" proprio come la tartaruga cice "Hello, world" .
 ![Hello, World!](https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson1/raw/main/assets/hello_world_screenshot.png)
 
 ## Step 1
 Tutti i nostri programmi iniziano con un blocco ⇢``on start``⇠ block. Questo blocco esegue tutti i comandi che si trovano al suo interno non appena inizia il programma. Ti è stato fornito di seguito. Se elimini accidentalmente il blocco, puoi trovarlo nel menu *"Loops"* menu.
+=======
+
 ```blocks
 /**
  * This is the "on start" block
@@ -19,7 +21,7 @@ Tutti i nostri programmi iniziano con un blocco ⇢``on start``⇠ block. Questo
 ## Step 2
 ** Follow Along**
 
-Successivamente dovrai creare il tu **Omarillo**. Per fare ciò utilizza il blocco  ⇢``show omarillo``⇠ e posizionalo all'interno del blocco ⇢``on start``⇠. Questo crea  **Omarillo** **Tartaruga** e la posiziona al centro dello schermo.
+Successivamente dovrai creare il tu **Omarillo**. Per fare ciò utilizza il blocco  ⇢``show omarillo``⇠ e posizionalo all'interno del blocco ⇢``on start``⇠. Questo crea  l'**Omarillo** e lo posiziona al centro dello schermo.
 =======
 
 ```blocks
@@ -29,7 +31,8 @@ omarillo.showOmarillo()
 ## Step 3
 ** Follow Along**
 
-Now that we have a **Turtle**, you can ask it to say something. Drag out the ⇢``turtle says "Hello, World!" ⊕``⇠ block and place it inside the ⇢``on start``⇠ block but after the ⇢``show turtle``⇠ block.
+Ora che abbiamo l'**Omarillo**, puoi addestrarlo a di dire qualcosa. Trascina fuori il blocco ⇢`` omarillo says "Benvenuti, all'OMAR di Oleggio" ⊕``⇠ e posizionalo all'interno del blocco ⇢``on start``⇠ ma dopo il blocco ⇢``show omarillo``⇠.
+
 ```blocks
 omarillo.showOmarillo()
 omarillo.say("Benvenuti all'OMAR di Oleggio!")
