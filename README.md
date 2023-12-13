@@ -9,6 +9,7 @@ In questa lezione creerai il tuo primo programma Omarillo Logo. Vedrai apparire 
 ![Hello, World!](https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson1/raw/main/assets/hello_world_screenshot.png)
 
 ## Step 1
+
 Tutti i nostri programmi iniziano con un blocco ⇢``on start``⇠ block. Questo blocco esegue tutti i comandi che si trovano al suo interno non appena inizia il programma. Ti è stato fornito di seguito. Se elimini accidentalmente il blocco, puoi trovarlo nel menu *"Loops"* menu.
 =======
 
@@ -21,7 +22,7 @@ Tutti i nostri programmi iniziano con un blocco ⇢``on start``⇠ block. Questo
 ## Step 2
 ** Follow Along**
 
-Successivamente dovrai creare il tu **Omarillo**. Per fare ciò utilizza il blocco  ⇢``show omarillo``⇠ e posizionalo all'interno del blocco ⇢``on start``⇠. Questo crea  l'**Omarillo** e lo posiziona al centro dello schermo.
+Successivamente dovrai creare il tuo **Omarillo**. Per fare ciò utilizza il blocco  ⇢``show omarillo``⇠ e posizionalo all'interno del blocco ⇢``on start``⇠. Questo crea  l'**Omarillo** e lo posiziona al centro dello schermo.
 =======
 
 ```blocks
@@ -40,7 +41,7 @@ omarillo.say("Benvenuti all'OMAR di Oleggio!")
 ## Step 4
 **Success!**
 
-Notice in the game console to the left, your **Turtle** said "Hello, World!" for 5 second and then the words vanish. If you want to run your program again, click the "🔁" button on the game console. You can also click the "⊕" and change the milliseconds to a larger number, to make it stay longer.
+Nella console di gioco a sinistra, il tuo **Omarillo** ha detto "Benvenuti all'OMAR di Oleggio!" per 5 secondi e poi le parole svaniscono. Se desideri eseguire nuovamente il programma, fai clic sul pulsante "🔁" sulla console di gioco. Puoi anche fare clic su "⊕" e modificare i millisecondi con un numero più grande, per farli rimanere più a lungo.
 ```blocks
 turtle.showTurtle()
 turtle.say("Hello, World!", 60000)
@@ -49,7 +50,7 @@ turtle.say("Hello, World!", 60000)
 ## Step 4
 **Your Turn**
 
-Get the **Turtle** to say your name!
+Ora fai dire il tuo nome al tuo **Omarillo**
 
 ## Step 5
 **Done**
