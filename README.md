@@ -11,7 +11,6 @@ In questa lezione creerai il tuo primo programma Omarillo Logo. Vedrai apparire 
 ## Step 1
 
 Tutti i nostri programmi iniziano con un blocco ⇢``on start``⇠ block. Questo blocco esegue tutti i comandi che si trovano al suo interno non appena inizia il programma. Ti è stato fornito di seguito. Se elimini accidentalmente il blocco, puoi trovarlo nel menu *"Loops"* menu.
-=======
 
 ```blocks
 /**
@@ -21,9 +20,7 @@ Tutti i nostri programmi iniziano con un blocco ⇢``on start``⇠ block. Questo
 
 ## Step 2
 ** Follow Along**
-
 Successivamente dovrai creare il tuo **Omarillo**. Per fare ciò utilizza il blocco  ⇢``show omarillo``⇠ e posizionalo all'interno del blocco ⇢``on start``⇠. Questo crea  l'**Omarillo** e lo posiziona al centro dello schermo.
-=======
 
 ```blocks
 omarillo.showOmarillo()
