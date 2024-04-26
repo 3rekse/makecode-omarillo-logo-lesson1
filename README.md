@@ -5,7 +5,7 @@
 ## Omarillo Logo - Lesson #1 @unplugged
 **Welcome to coding with Omarillo Logo.**
 
-In questa lezione creerai il tuo primo programma Omarillo Logo. Vedrai apparire un **Omarillo** nella tua console di gioco e dire "Ciao, benvenuti all' Omar" proprio come la tartaruga cice "Hello, world" .
+In questa lezione creerai il tuo primo programma Omarillo Logo. Vedrai apparire un **Omarillo** nella tua console di gioco e dire "Ciao, benvenuti all' Omar" proprio come la tartaruga dice "Hello, world" .
 ![Hello, World!](https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson1/raw/main/assets/hello_world_screenshot.png)
 
 ## Step 1
